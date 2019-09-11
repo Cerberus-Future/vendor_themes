@@ -20,12 +20,12 @@ PRODUCT_PACKAGES += \
     AccentColorRedOverlay \
     AccentColorQGreenOverlay \
     AccentColorPinkOverlay \
-    AccentColorPixelBlueOverlay \
     AccentColorLightPurpleOverlay \
     AccentColorIndigoOverlay \
     AccentColorFlatPinkOverlay \
     AccentColorCyanOverlay \
     AccentColorBlueGrayOverlay
+
 
 # Custom Overlays
 # Settings
